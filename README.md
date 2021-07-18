@@ -1,0 +1,1 @@
+THIS PACKAGE IS DEPRECATED. PLEASE USE [switch-profile](https://www.npmjs.com/package/switch-profile) instead.
