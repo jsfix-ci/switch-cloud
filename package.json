@@ -32,7 +32,7 @@
   "dependencies": {
     "archiver": "^5.3.0",
     "colors": "^1.4.0",
-    "commander": "^8.0.0",
+    "commander": "^9.4.0",
     "convert-stream": "^1.0.2",
     "core-async": "^2.0.4",
     "fast-glob": "^3.2.7",
